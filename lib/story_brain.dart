@@ -1,8 +1,8 @@
 //TODO: Step 6 - import the story.dart file into this file.
 import 'package:destini_belkis_vasquez/story.dart';
 //TODO: Step 5 - Create a new class called StoryBrain.
-//TODO: Step 7 - Uncomment the lines below to include storyData as a private property in StoryBrain. Hint: You might need to change something in story.dart to make this work.
 class StoryBrain{
+  //TODO: Step 7 - Uncomment the lines below to include storyData as a private property in StoryBrain. Hint: You might need to change something in story.dart to make this work.
   final List<Story> _storyData = [
     Story(
         storyTitle:
